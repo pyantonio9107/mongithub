@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_iterativ_factorial.c                            :+:      :+:    :+:   */
+/*   ft_iterative_factorial.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: pfemenia <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/03/25 11:28:29 by pfemenia          #+#    #+#             */
-/*   Updated: 2017/03/25 14:57:19 by pfemenia         ###   ########.fr       */
+/*   Created: 2017/03/27 17:00:48 by pfemenia          #+#    #+#             */
+/*   Updated: 2017/03/27 17:00:54 by pfemenia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int		ft_iterativ_factorial(int nb)
+int		ft_iterative_factorial(int nb)
 {
 	int	a;
 
